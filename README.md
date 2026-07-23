@@ -46,11 +46,11 @@ Fullstack Web Developer focused on **Node.js** & **JavaScript**. Linux enthusias
 
 ### 📊 GitHub Stats
 
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight)
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Nikita-Kolenchenko]&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akk.qlitch2)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akk.gl1tch@gmail.com)
