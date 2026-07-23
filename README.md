@@ -46,7 +46,7 @@ Fullstack Web Developer focused on **Node.js** & **JavaScript**. Linux enthusias
 
 ### 📊 GitHub Stats
 
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Nikita-Kolenchenko]&show_icons=true&theme=tokyonight)
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Kolenchenko&show_icons=true&theme=tokyonight)
 
 ---
 
