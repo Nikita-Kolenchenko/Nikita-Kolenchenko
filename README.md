@@ -1,29 +1,18 @@
-# Hi 👋, I'm Nikita
+# 💫 About Me:
+<br><br>🔭 I'm currently working on I'm currently working on the Proviant project<br><br>🌱 I'm currently learning TypeScript<br><br>👯 I'm looking to collaborate on open source JS/TS and Express projects<br><br>🤝 I'm looking for help with I'm looking for help with optimizing SQL queries and backend performance<br><br>💬 Ask me about Express, Event Loop, JS and TS<br><br>📫 How to reach me kolencenkonikita97@gmail.com<br><br>⚡ Fun fact I pick up new material easily and have a strong desire to keep learning. English level: A2<br>
 
-### Node.js Developer
 
-- 🔭 I'm currently working on **I'm currently working on the Proviant project**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akk.glitch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akk.glitch) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gl1tchero) 
 
-- 🌱 I'm currently learning **TypeScript**
+# 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nikita-Kolenchenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nikita-Kolenchenko&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikita-Kolenchenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I'm looking to collaborate on **open source JS/TS and Express projects**
+---
+[![](https://komarev.com/ghpvc/?username=Nikita-Kolenchenko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤝 I'm looking for help with **I'm looking for help with optimizing SQL queries and backend performance**
-
-- 💬 Ask me about **Express, Event Loop, JS and TS**
-
-- 📫 How to reach me **kolencenkonikita97@gmail.com**
-
-- ⚡ Fun fact **I pick up new material easily and have a strong desire to keep learning. English level: A2**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Nikita-Kolenchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nikita-Kolenchenko" height="30" width="40" /></a>
-<a href="https://instagram.com/akk.glitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akk.glitch" height="30" width="40" /></a>
-<a href="https://youtube.com/@Gl1tchero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Gl1tchero" height="30" width="40" /></a>
-<a href="https://discord.gg/akk.gl1tch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akk.gl1tch" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
