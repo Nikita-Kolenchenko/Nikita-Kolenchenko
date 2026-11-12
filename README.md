@@ -12,10 +12,10 @@ My main technologies are React, TypeScript, Node.js and Express.
 
 I’m passionate about web development and constantly improving my skills.
 
-- 🔭 I'm currently working on **Developing personal projects using React, TypeScript, Node.js and Express**
-- 🌱 I'm currently learning **Currently learning how AI works under the hood and how to integrate AI into website**
-- 👯 I'm looking to collaborate on **Js/ts, react, node.js**
-- 💬 Ask me about **Js, node.js, react, database**
+- 🔭 I'm currently working on **Developing personal projects using React, TypeScript, Node.js and Express**.
+- 🌱 I'm currently learning **Currently learning how AI works under the hood and how to integrate AI into website**.
+- 👯 I'm looking to collaborate on **Js/ts, react, node.js**.
+- 💬 Ask me about **Js, node.js, react, database**.
 - ⚡ Fun fact: I’ve been learning IT since I was 12 years old.
 
 ## Connect with me
@@ -29,5 +29,5 @@ I’m passionate about web development and constantly improving my skills.
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,linux,postman,docker,jest&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,linux,postman,docker,jest&perline=20" alt="Tech stack" />
 </p>
