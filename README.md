@@ -29,5 +29,5 @@ I’m passionate about web development and constantly improving my skills.
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,linux,postman,docker,jest&perline=20" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,mongodb,postgres,git,github,vscode,linux,postman,docker,jest&perline=100" alt="Tech stack" />
 </p>
